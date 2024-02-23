@@ -143,5 +143,5 @@ data_pre_process<- function(data,response) {
   
 }
 
-#data_pre_process("Train_Loan_Home.csv","Loan_Status")
+#data_pre_process("Train_Loan_Home.csv","Loan_Status") # Data source - Kaggle
 
