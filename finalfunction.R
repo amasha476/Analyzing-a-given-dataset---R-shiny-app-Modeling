@@ -143,10 +143,5 @@ data_pre_process<- function(data,response) {
   
 }
 
-data_pre_process("Train_Loan_Home.csv","Loan_Status")
-data_pre_process("People.csv","Attrition_Flag")
+#data_pre_process("Train_Loan_Home.csv","Loan_Status")
 
-data_pre_process("Train_Loan_Home - Copy.csv","Loan_Status")
-
-data_pre_process("heart.data.csv","heart.disease")
-data_pre_process("mushrooms.csv","class")
